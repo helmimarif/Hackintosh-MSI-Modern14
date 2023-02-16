@@ -47,10 +47,8 @@
 - [x] HDMI Out
 - [x] HDMI Audio
 - [x] Restart, Sleep and Shutdown
-- [x] Apple Store
-- [x] iCloud
 - [x] Etc
 
 # Not Working
-- Everything is working except for the Led Mute
-- Etc
+- Appstore(this will be fixed if you generate SMBIOS)
+- Airdrop (Bluetooth have time problem with connect to any ios devices)
