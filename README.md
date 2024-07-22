@@ -1,5 +1,5 @@
 # Hackintosh MSI Modern 14
-<center> <img src="https://user-images.githubusercontent.com/106028948/206348026-af0592a7-f32e-4b25-aada-8646bf74e4fb.png" width="90%"></img> </center>
+<center> <img src="https://github.com/user-attachments/assets/37241634-9485-4036-b9c6-1c7720a830c6"></img> </center>
 
 # Specs
 - Model : B10MW
@@ -20,8 +20,8 @@
 - 1x Audio Jack
 
 # Status
-- OS : **macOS BigSur v11.7 (Build 20G817)**
-- Bootloader : **OPENCORE r0.8.5**
+- OS : **macOS Sonoma v14.5 (Build 23F79)**
+- Bootloader : **OPENCORE r1.0.0**
 - Bios Version : E14D1IMS.108
 - Sata Mode : AHCI
 - Intel Virtualization : Enabled
@@ -50,5 +50,5 @@
 - [x] Etc
 
 # Not Working
-- Appstore(this will be fixed if you generate SMBIOS)
-- Airdrop (Bluetooth have time problem with connect to any ios devices)
+- App Store (This will be fixed if you generate SMBIOS)
+- AirDrop (Bluetooth have time problem with connect to any ios devices)
